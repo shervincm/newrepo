@@ -1,0 +1,31 @@
+** start of undefined **
+
+<main id="main">
+  <h1 id="title">Zinedine Zidane</h1>
+  <img src="https://cdn.mos.cms.futurecdn.net/2hTFcHEgbvhQNhjSt945tC-1200-80.jpg.webp">
+  <div id="img-div">
+    <img id="image"</img>
+    <div id="img-caption">Zidane scoring in the Champions League final 2002</id>
+    <p id="tribute-info">Zidane is one of the greats of football.</p>
+      <a id="tribute-link" target="_blank" href="https://en.wikipedia.org/wiki/Zinedine_Zidane">This links to Zidane's wiki page</a>
+<style> img {display: block;}
+#image {max-width: 100%; margin: 0 auto;}
+</style>
+  
+    </div>
+    
+</div>
+</main>
+
+
+
+
+
+** end of undefined **
+
+** start of undefined **
+
+
+
+** end of undefined **
+
